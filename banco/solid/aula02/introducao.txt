@@ -1,0 +1,5 @@
+S - Single Responsability Principle
+
+
+Uma classe deve ter somente uma responsabilidade, ou seja, ela deve ter somente uma razão para mudar.
+

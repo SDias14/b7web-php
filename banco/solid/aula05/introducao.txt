@@ -1,0 +1,3 @@
+principio i - interface Segregation Principle (ISP); 
+
+

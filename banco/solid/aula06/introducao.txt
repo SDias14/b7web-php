@@ -1,0 +1,3 @@
+principio d - Dependency Inversion Principle (DIP) - Princípio da Inversão de Dependência
+
+

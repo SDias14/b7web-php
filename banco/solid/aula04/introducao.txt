@@ -1,0 +1,1 @@
+principio l - Liskov substitucion principle. 

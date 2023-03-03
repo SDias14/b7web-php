@@ -1,0 +1,17 @@
+principio solid. 
+
+
+cinco principios diferentes para aplicar no sistema. 
+
+é importante para minimizar bug , e para que o sistema seja escalavel, tenha melhor manutenção. 
+
+Estes são os principios : 
+
+S - Single Responsability Principle
+O - Open Closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
+
+codigo bom para manutenção com o tempo.
+

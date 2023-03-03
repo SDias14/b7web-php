@@ -1,0 +1,4 @@
+principio o - principio aberto / fechado
+
+classes, objetos, entidades devem estar abertas para extensão, ou seja, para que ela possa crescer em novas funcionalidades, mas fechadas para modificação;
+
