@@ -1,0 +1,14 @@
+{
+    "description": "Teste",
+    "authors": [
+        {
+            "name": "Samuel Dias",
+            "email": "samueld2014@gmail.com" 
+        }
+    ],
+
+"require": {
+        "monolog/monolog": "^3.3"
+    }
+
+}

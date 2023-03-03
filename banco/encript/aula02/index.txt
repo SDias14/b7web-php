@@ -1,0 +1,4 @@
+manipulando imagens que vem do usuario 
+
+
+geralmente quando recebemos imagens queremos que venha com um formato bom.
