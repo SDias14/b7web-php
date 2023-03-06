@@ -1,0 +1,37 @@
+DAO - DATA ACCESS OBJECT
+
+CLASSE USUARIO 
+
+- id
+- nome
+- email
+
+- getId
+- getNome
+- getEmail.
+
+
+CLASSE USUARIODAO
+
+vai ter os metodos de acesso ao banco de dados, como por exemplo:
+
+- inserir
+- alterar
+- excluir
+- buscar
+- listar
+
+
+PASSO 1 PARA ADICIONAR UM USUARIO NO BANCO DE DADOS
+
+1 - cria um objeto usuario
+
+add(Usuario)
+
+$usuario1 = new Usuario();
+$usuario1.setNome("Joao");
+$usuario1.setEmail("joaoD.com");
+
+criado um objeto usuario na classe usuario dao.
+
+$usuarioDao->add($usuario1);

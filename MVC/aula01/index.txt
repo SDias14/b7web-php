@@ -1,0 +1,17 @@
+M - MODEL
+V - VIEW
+C - CONTROLLER
+
+urls amigaveis
+
+- o usuario requisita a url site.com.br/sobre
+- o mvc vai ver se a rota está estabelecida. 
+- o mvc vai mandar a requisição para o controller da rota. o controller recebe a requisição. toda rota vai ter um controller associado. é uma classe especifica. 
+- o controller pode carregar uma view que é a parte gráfica do site. 
+- o controller pode carregar um model que é a parte de dados do site.
+
+processo : 
+
+Controller - model - view
+
+
